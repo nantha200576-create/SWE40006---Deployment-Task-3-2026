@@ -1,0 +1,20 @@
+﻿diff --git a/.github\upgrades\scenarios\dotnet-version-upgrade\assessment\project-graph.md b/.github\upgrades\scenarios\dotnet-version-upgrade\assessment\project-graph.md
+--- /dev/null
++++ b/.github\upgrades\scenarios\dotnet-version-upgrade\assessment\project-graph.md
+@@ -0,0 +1,16 @@
++# Projects Relationship Graph
++
++[← Back to the assessment index](../assessment.md)
++
++Legend:
++📦 SDK-style project
++⚙️ Classic project
++
++```mermaid
++flowchart LR
++    P1["<b>📦&nbsp;CSharpApp_106214014.csproj</b><br/><small>net8.0</small>"]
++    click P1 "projects/CSharpApp_106214014.md"
++
++```
++
++

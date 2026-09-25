@@ -1,0 +1,7 @@
+D:\CSharpApp_106214014\publish\CSharpApp_106214014.exe
+D:\CSharpApp_106214014\publish\appsettings.Development.json
+D:\CSharpApp_106214014\publish\appsettings.json
+D:\CSharpApp_106214014\publish\CSharpApp_106214014.dll
+D:\CSharpApp_106214014\publish\CSharpApp_106214014.deps.json
+D:\CSharpApp_106214014\publish\CSharpApp_106214014.runtimeconfig.json
+D:\CSharpApp_106214014\publish\CSharpApp_106214014.pdb
