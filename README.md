@@ -37,7 +37,7 @@ This repository contains the codebase, cloud configurations, and deployment arti
 
 ---
 
-## 🛠️ Summary of Key Technical Fixes
+##  Summary of Key Technical Fixes
 1. **Azure Location Policies:** Resolved regional restriction errors by targeting all resources to the **East Asia** (`eastasia`) region.
 2. **Resource Provider Namespace:** Explicitly registered `Microsoft.OperationalInsights` under subscription providers.
 3. **HTTP 503 Startup Error:** Downgraded `.csproj` target framework from preview versions to supported LTS **.NET 8.0**.
@@ -45,5 +45,5 @@ This repository contains the codebase, cloud configurations, and deployment arti
 
 ---
 
-## 📄 License & AI Declaration
+##  License & AI Declaration
 Generative AI (Google Gemini) was used for document formatting, report grammar refinement, and error diagnostic guidance. All code, cloud deployments, and Azure resource configurations were performed independently by Student ID **106214014**.
