@@ -6,12 +6,12 @@
 
 ---
 
-## 📌 Repository Overview
+## Repository Overview
 This repository contains the codebase, cloud configurations, and deployment artifacts for **Task 3: Azure Cloud Deployment & Multi-Stack Application Setup**.
 
 ---
 
-## 🚀 Overview of Completed Tasks
+##  Overview of Completed Tasks
 
 ### **Task 3.1: Azure Environment Setup & Tooling Configuration**
 - **Subscription:** Azure for Students (Active)
