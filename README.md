@@ -31,7 +31,7 @@ This repository contains the codebase, cloud configurations, and deployment arti
 ---
 
 ### **Task 3.3: Secondary Multi-Stack Deployment (PHP)**
-- **Runtime Stack:** PHP 8.x (Linux Host)
+- **Runtime Stack:** PHP 8.2.31 (Linux Host)
 - **Hosted Azure App Service:** `app-php-106214014` (Region: East Asia)
 - **Live URL:** [https://app-php-106214014-bzd8dacjdagbgwfy.eastasia-01.azurewebsites.net](https://app-php-106214014-bzd8dacjdagbgwfy.eastasia-01.azurewebsites.net)
 - **Identity Verification:** Dynamic script output rendering Student ID `106214014` and runtime server environment details.
